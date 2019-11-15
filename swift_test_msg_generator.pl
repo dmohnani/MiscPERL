@@ -2,7 +2,7 @@
 #d:ptkdb
 
 
-# TEST Swift Message Generation based on Sample messages in Database
+# TEST Swift Message Generation based on Sample (Swift) messages stored in the Table
 # and Send to the Swift Alliance Access Message Queue
 # Developer: Devesh Mohnani
 
